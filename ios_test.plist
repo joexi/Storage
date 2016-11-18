@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>https://nj01ct01.baidupcs.com/file/06aa2a89640981ee6f2ded6fad9f7273?bkt=p3-0000d36654b80a2aaf2953978059c9394fb3&fid=4261468670-250528-592809174803895&time=1479451857&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-jR5Sy%2BMjOWqTLfpcitnNuov4t2k%3D&to=njhb&fm=Yan,B,T,t&sta_dx=59279771&sta_cs=&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=Yangquan,B,T,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000d36654b80a2aaf2953978059c9394fb3&sl=75497550&expires=8h&rt=pr&r=926971435&mlogid=7482439103802345188&vuk=4261468670&vbdid=4091837381&fin=ios_test.ipa&fn=ios_test.ipa&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=7482439103802345188&dp-callid=0.1.1&hps=1&csl=95&csign=EkVakzkgw%2FDKl7pyNlAWkikz%2BOA%3D</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://192.168.1.215:2324/files/ios_test.png</string>
+               </dict>
+      <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>https://192.168.1.215:2324/files/ios_test.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.DreamOut.AdHoc</string>
+               <key>bundle-version</key>
+               <string>1.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>ios_test2</string>
+               <key>title</key>
+               <string>ios_test3</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
